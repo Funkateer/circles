@@ -155,7 +155,7 @@ var keyData = {
 		}),
 		color: '#2c3e50'
 	}
-} // keyData//
+}; // keyData//
 
 var circles = [];
 function onKeyDown(event) {
@@ -168,7 +168,7 @@ function onKeyDown(event) {
 		keyData[event.key].sound.play();
 		circles.push(newCircle);
 	}
-}
+};
 
 function onFrame(event){
 	for(var i = 0; i < circles.length; i++){
@@ -180,4 +180,4 @@ function onFrame(event){
 			console.log(circles);
 		}
 	}
-}
+};

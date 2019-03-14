@@ -155,7 +155,7 @@ var keyData = {
 		}),
 		color: '#2c3e50'
 	}
-} // keyData//
+}; // keyData//
 
 var circles = [];
 function onKeyDown(event) {
@@ -163,7 +163,7 @@ function onKeyDown(event) {
 		var maxPoint = new Point(view.size.width, view.size.height);
 		var randomPoint = Point.random();
 		var point = maxPoint * randomPoint;
-		var newCircle = new Path.Circle(point, 500)
+		var newCircle = new Path.Circle(point, 500);
 		newCircle.fillColor = keyData[event.key].color;
 		keyData[event.key].sound.play();
 		circles.push(newCircle);

@@ -8,7 +8,7 @@ I used paper-full library to generate the shapes and howler for the sounds
 
 
 ## Features
-when any letter on the keyboard it generates a sound and a colored dot
+- when any letter on the keyboard it generates a sound and a colored dot
 
 
 ## Live Demo

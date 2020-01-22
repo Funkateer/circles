@@ -8,7 +8,7 @@ I used paper-full library to generate the shapes and howler for the sounds
 
 
 ## Features
-- when any letter on the keyboard it generates a sound and a colored dot
+- When pressing any letter on the keyboard it generates a sound and a colored dot
 
 
 ## Live Demo
@@ -43,7 +43,7 @@ Project Link: https://github.com/Funkateer/circles
 
 
 ## Contact
-Alaeddin Abugrara - [website](http://www.alabugrara.com) - [@twitter](https://twitter.com/twitter_handle) - [Github](https://github.com/Funkateer) - [Linked-in](https://www.linkedin.com/in/al%C3%A0-eddin-abugrara-214ba5115/)
+Alà Eddin Abugrara - [website](http://www.alabugrara.com) - [@twitter](https://twitter.com/twitter_handle) - [Github](https://github.com/Funkateer) - [Linked-in](https://www.linkedin.com/in/al%C3%A0-eddin-abugrara-214ba5115/)
 
 
 <!-- Markdown links & imgs  -->

@@ -4,7 +4,7 @@ I used paper-full library to generate the shapes and howler for the sounds
 
 
 ## Screenshots
-![screenshot](https://alabugrara.com/img/circles-poster.png)
+![screenshot](https://alabugrara.com/img/poster-circles.png)
 
 
 ## Features
